@@ -1,0 +1,76 @@
+@import url("reset.css");
+@import url("fonts.css");
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    width: 100%;
+    background-color: #FFF6EC;
+    font-family: "Bebas", sans-serif;
+    color: #344491;
+    font-weight: 400;
+    font-style: normal;
+}
+body > div{
+    position: relative;
+}
+h1{
+    font-size: 80px;
+}
+p{
+    font-size: 35px;
+}
+.slide{
+    width: 1920px;
+    height: 1080px;
+}
+.black{
+    background-color: #232323;
+    color: #FFFFFF;
+}
+.card{
+    position: relative;
+    height: 85px;
+    width: 646px;
+    .time{
+        position: absolute;
+        left: 70px;
+        top: 48px;
+    }
+    .text{
+        position: absolute;
+        left: 70px;
+    }
+    .data{
+        position: absolute;
+        left: 562px;
+    }
+}
+.cards{
+    position: absolute;
+    display: flex;
+    gap: 12px;
+    flex-direction: column;
+}
+.worktime{
+    position: absolute;
+    display: flex;
+    gap: 21px;
+    flex-direction: column;
+}
+.worktime2{
+    position: absolute;
+    display: flex;
+    gap: 23px;
+    flex-direction: column;
+}
+img {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-drag: none;
+    user-drag: none;
+}

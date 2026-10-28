@@ -1,0 +1,31 @@
+<svg width="699" height="1044" viewBox="0 0 699 1044" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M125 200C125 89.543 214.543 0 325 0H478C588.457 0 678 89.543 678 200V1044H125V200Z" fill="#6FA0FF"/>
+<path d="M122 200C122 89.5431 211.543 0 322 0H423C533.457 0 623 89.5431 623 200V1035H122V200Z" fill="#0C1433"/>
+<path d="M186.335 778L189.636 754.962L211 751.645L189.636 749.065L186.335 724L182.45 749.065L164 751.645L182.45 754.962L186.335 778Z" fill="#4254AD"/>
+<path d="M392.934 447L404.455 366.369L479 354.758L404.455 345.727L392.934 258L379.38 345.727L315 354.758L379.38 366.369L392.934 447Z" fill="white"/>
+<circle cx="529" cy="216" r="50" fill="#4254AD"/>
+<circle cx="333" cy="241" r="5" fill="#FFF6EC"/>
+<circle cx="188" cy="507" r="5" fill="#FFF6EC"/>
+<circle cx="567" cy="141" r="5" fill="#FFF6EC"/>
+<circle cx="198" cy="151" r="5" fill="#FFF6EC"/>
+<circle cx="239" cy="342" r="5" fill="#FFF6EC"/>
+<circle cx="372" cy="105" r="5" fill="#FFF6EC"/>
+<circle cx="529" cy="394" r="5" fill="#FFF6EC"/>
+<circle cx="474" cy="760" r="225" fill="#FFF6EC"/>
+<circle cx="474" cy="760" r="200" fill="#B2CAF8"/>
+<circle cx="474" cy="762" r="175" fill="#4D63CA"/>
+<circle cx="481" cy="765" r="150" fill="#192646"/>
+<rect x="311" y="785" width="312" height="43" fill="#3E4D95"/>
+<rect x="377" y="785" width="246" height="43" fill="#253276"/>
+<rect x="249" y="828" width="374" height="43" fill="#3E4D95"/>
+<rect x="125" y="914" width="498" height="44" fill="#3E4D95"/>
+<rect x="62" y="958" width="561" height="42" fill="#3E4D95"/>
+<rect y="1000" width="623" height="44" fill="#3E4D95"/>
+<rect x="187" y="871" width="436" height="43" fill="#3E4D95"/>
+<rect x="244" y="871" width="379" height="42" fill="#253276"/>
+<rect x="310" y="828" width="313" height="43" fill="#253276"/>
+<rect x="187" y="913" width="436" height="43" fill="#253276"/>
+<rect x="125" y="956" width="498" height="43" fill="#253276"/>
+<rect x="62" y="999" width="561" height="45" fill="#253276"/>
+<path d="M623 193.5C623 178.312 635.312 166 650.5 166C665.688 166 678 178.312 678 193.5V1007H623V193.5Z" fill="#6FA0FF"/>
+</svg>
